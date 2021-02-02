@@ -1,4 +1,6 @@
 # notifications
+https://imgur.com/a/XCVebjl
+
  :D
  
 ARG1 = Textul care vrei sa apara pe notificare
